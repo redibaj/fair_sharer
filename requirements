@@ -1,0 +1,10 @@
+
+# Grundlegende Bibliotheken für den Python-Code
+numpy
+
+# Testing-Bibliothek
+pytest
+
+# Linter für Python-Code
+ruff
+
